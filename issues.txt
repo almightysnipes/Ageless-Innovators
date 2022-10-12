@@ -3,3 +3,4 @@ Devonte' Hawkins: Statements and Design
 John Luegering: API
 Josh Hammond: Front End Design
 Daylin Hart: Back End Design
+Darius Robinson: UX/UI
